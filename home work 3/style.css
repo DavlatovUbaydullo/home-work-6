@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.qq1{
+    width: 100%;
+}
+.zard{
+background-color: rgb(183, 241, 69);
+position: relative;top: -170px;
+width: 60%;
+height: 120px;
+position: relative;right: -20px;
+}
+.zard:hover{
+background-color: rgb(157, 193, 67);
+color: rgb(24, 20, 20);
+opacity: 0.5;
+}
+img{
+    width: 650px;
+    margin: auto;
+}
+#o1{
+     width: 90%; height: 400px;
+      margin: auto; justify-content: space-between;
+       display: flex; font-size: 22px;
+        line-height: 60px;
+}

@@ -1,0 +1,27 @@
+.about{
+    font-size: 3em;
+    text-decoration: none;
+}
+.about:hover{
+background-color: rgb(193, 175, 175);
+color: rgb(0, 0, 0);
+}
+.Home{
+    text-align: center;
+    word-spacing: 20px;
+}
+img{
+    width: 33%;
+    border-radius: 15px;
+}
+video{
+    width: 33%;
+    border-radius: 15px;
+}
+audio{
+    width: 33%;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(233, 221, 221);
+}
